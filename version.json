@@ -1,0 +1,7 @@
+{
+  "versionCode": 13,
+  "versionName": "2.8.4",
+  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.4/VideoKey-v2.8.4.apk",
+  "forceUpdate": true,
+  "releaseNotes": "🎉 VIDEOKEY V2.8.4 UPDATE:\n• Mas maayos na lyrics spacing at automatic 2-line layout habang nagpi-play\n• Smooth highlights ng lyrics sa TV Mode at hindi natatakpan ng songbook o dialogs\n• Compact TV keypad sa top-right corner na hindi humaharang sa lyrics\n• Download Center: 'Song Pack' label at may gumaganang stop/cancel download\n• Inayos ang video background dialog\n• Dedicated public release channel"
+}
