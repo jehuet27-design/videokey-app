@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "2.8.5",
-  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.5/VideoKey-v2.8.5.apk",
-  "forceUpdate": true,
-  "releaseNotes": "🎉 VIDEOKEY V2.8.5 UPDATE:\n• Bagong TV Mode layout: Dual-pane with auto-centering songbook at responsive right-side forms\n• High quality VideoKey Studio SoundFont audio engine na may direct BASS PCM streaming\n• Mobile Web Remote: Circular color theme swatches, dynamic app color matching, at custom font\n• Slider control improvements at language selector para sa TV Settings"
+  "versionCode": 15,
+  "versionName": "2.8.6",
+  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.6/VideoKey-v2.8.6.apk",
+  "forceUpdate": false,
+  "releaseNotes": "🎉 VIDEOKEY V2.8.6 UPDATE:\n• TV Mode Split-Screen & Built-in App Keyboard: Hindi na natatakpan ang lyrics kapag nagbubukas ng Songbook o YouTube Downloader at may sariling app keyboard sa gilid\n• Auto-Resize Right-Side TV Lyrics: Malinis na lyrics (walang box/title) na kusang nagre-resize at naka-center sa kanang itaas\n• TV Remote Smart Navigation: Back button para alisin ang select sa 000000 at Up button para lumabas at ma-select agad ang Songbook header\n• 3D Infinite Sliding Action Carousel: Kasama na ang YouTube at MP3 sa smooth looping carousel at pinalaki ang 4 main bottom tabs\n• Full-Viewport MP4 Playback & Auto-Hide Top Text: Walang black space sa MP4 video at kusang nagha-hide ang PLAYING/RES text pagkalipas ng 20 segundo\n• 120Hz Smooth Lyric Wipe & Pro Videoke Master EQ: Sakto sa kanta ang highlight at mas buo ang tunog"
 }
