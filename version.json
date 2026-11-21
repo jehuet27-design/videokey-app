@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.8.7",
-  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.7/VideoKey-v2.8.7.apk",
+  "versionCode": 17,
+  "versionName": "2.8.8",
+  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.8/VideoKey-v2.8.8.apk",
   "forceUpdate": false,
-  "releaseNotes": "• Lyric Line Transition Animations (Slide Up, Pop Bounce, 3D Flip, Swipe)\n• Synced Select a Song, 000000 & Song Title with Lyrics style\n• Fixed MP3 Player video background & UI improvements"
+  "releaseNotes": "• Dynamic Auto Melody Balance for Strings, Brass & Sax\n• Custom SoundFont .sf2 strict filter & delete feature\n• Full audio polyphony in Performance Mode\n• Auto-restart song on SoundFont change\n• UI Score Card & Pitch Lane upgrades\n• Database security & RLS enhancements"
 }
