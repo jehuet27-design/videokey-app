@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "2.8.8",
-  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.8/VideoKey-v2.8.8.apk",
+  "versionCode": 18,
+  "versionName": "2.8.9",
+  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.9/VideoKey-v2.8.9.apk",
   "forceUpdate": false,
-  "releaseNotes": "• Dynamic Auto Melody Balance for Strings, Brass & Sax\n• Custom SoundFont .sf2 strict filter & delete feature\n• Full audio polyphony in Performance Mode\n• Auto-restart song on SoundFont change\n• UI Score Card & Pitch Lane upgrades\n• Database security & RLS enhancements"
+  "releaseNotes": "• TV Mode Dashboard Redesign (Hero Billboard, Tools Row, Random Picks)\n• 100% D-Pad Friendly TV Controls & Playback Quick Back Menu\n• Crisp Unclipped Lyrics (g, y, p, q, j) & Compact 1-Line Live Preview\n• Custom Pinoy Videoke Score Voices & 10s Score Display\n• Performance Mode 30 FPS Cap & Printable Songbook PDF Hidden Songs Toggle"
 }
