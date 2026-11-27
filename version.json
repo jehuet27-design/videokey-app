@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8.10",
-  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.10/VideoKey-v2.8.10.apk",
-  "forceUpdate": true,
-  "releaseNotes": "• Emergency Hotfix: Inayos ang force close sa app launch / startup sa mga phones & tablets\n• Ibinalik ang default portrait mode para sa regular na mga device\n• Pinatibay ang audio at window engine para sa lahat ng Android version"
+  "versionCode": 18,
+  "versionName": "2.8.9",
+  "apkUrl": "https://github.com/jehuet27-design/videokey-app/releases/download/v2.8.9/VideoKey-v2.8.9.apk",
+  "forceUpdate": false,
+  "releaseNotes": "• TV Mode Dashboard Redesign (Hero Billboard, Tools Row, Random Picks)\n• 100% D-Pad Friendly TV Controls & Playback Quick Back Menu\n• Crisp Unclipped Lyrics (g, y, p, q, j) & Compact 1-Line Live Preview\n• Custom Pinoy Videoke Score Voices & 10s Score Display\n• Fixed crash on launch for phones & tablets"
 }
